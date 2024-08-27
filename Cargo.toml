@@ -1,0 +1,8 @@
+[package]
+name = "rust_cardcheck"
+version = "0.1.0"
+authors = ["Esteban <esteban.ramos.seg@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
